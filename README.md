@@ -20,7 +20,7 @@
    ### `STEPS : `        
    1) Importing Libraries & Loading Dataset.
    2) Data Preprocessing & Preparing Dataset.
-   3) Exploratoty Data Analysis(EDA) & Visualization.
+   3) Exploratory Data Analysis(EDA) & Visualization.
    4) Handling Imbalanced Dataset.
    5) Choosing of the best Model (Cross Validation).
    6) Hyperparameter Optimization.
