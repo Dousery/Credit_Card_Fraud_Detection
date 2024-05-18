@@ -26,4 +26,4 @@
    6) Hyperparameter Optimization.
    7) Evaluation of the Model.
      
-### CONTACT ME ON:  linkedin --> https://www.linkedin.com/in/doğuser-yarar-8042971b3/
+### CONTACT ME ON:  linkedin --> https://www.linkedin.com/in/doguser-yarar/
